@@ -1,3 +1,4 @@
+LINK TO MY SITE: https://priyanshugusain2004.github.io/PBL/
 # CPU Scheduling Visualizer
 
 A modern, interactive web application to simulate and visualize various CPU scheduling algorithms. Built with React and Vite, this project helps you understand how different scheduling strategies work by providing step-by-step simulation, Gantt charts, and detailed process metrics.
